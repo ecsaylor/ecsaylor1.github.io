@@ -1,2 +1,1 @@
-# ecsaylor1.github.io
-Currency Converter
+# Currency Converter
